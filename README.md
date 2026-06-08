@@ -10,6 +10,6 @@ Running business intelligence queries against a normalised transactional system 
 1. Which customer tier drove the most revenue in 2024?
 2. Which products are pulling deposits vs withdrawals?
 3. Which high-value customers haven't transacted in 30 days?
-The core Problem: Build a warehouse that is fast enough for real-time querying, accurate enough for historical reporting, and clean enough to trust.
+4. The core Problem: Build a warehouse that is fast enough for real-time querying, accurate enough for historical reporting, and clean enough to trust.
 
 ## Detailed Analysis & Recommendations
