@@ -12,5 +12,4 @@ Running business intelligence queries against a normalised transactional system 
 3. Which high-value customers haven't transacted in 30 days?
 4. The core Problem: Build a warehouse that is fast enough for real-time querying, accurate enough for historical reporting, and clean enough to trust.
 
-## Detailed Analysis & Recommendations
-For in-depth analysis and business recommendations,[Read the full article on Medium]()
+
